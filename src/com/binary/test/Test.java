@@ -15,6 +15,7 @@ public class Test {
 		System.out.println(BaseBallGame.calPoints1(new String[] {"1","2","+","C","5","D"}));
 		System.out.println(EvaluateReversePolicyNotation.evalRPN(new String[] {"1","2","+","3","*","4","-"}));
 		System.out.println(EvaluateReversePolicyNotation.evalRPN1(new String[] {"1","2","+","3","*","4","-"}));
+		
 
 	}
 
